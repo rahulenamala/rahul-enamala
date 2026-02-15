@@ -1,4 +1,4 @@
-# Hi, I'm Rahul Enamala 👋
+# Hi, I'm Rahul Enamalamanda 👋
 
 ## Data Engineer | AWS | SQL | Python | Databricks  
 Building scalable, production-ready data pipelines  
@@ -30,7 +30,6 @@ I focus on:
 - Databricks
 - ETL Pipelines
 - Data Modeling
-- SCD Type 1 & Type 2
 
 **Data & BI**
 - Power BI
