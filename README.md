@@ -69,7 +69,7 @@ I focus on:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/rahul-enamala/)  
+- 💼 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/rahul-enamala/)  
 - 📧 Email: rahulenamala@gmail.com
 
 ---
